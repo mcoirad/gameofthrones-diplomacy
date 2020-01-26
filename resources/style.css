@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+.variantAncMed .country0 { color: #CE7800 ! important; } /* Global   */
+.variantAncMed .country1 { color: #ebebeb ! important; } /* House Stark */
+.variantAncMed .country2 { color: #007BA5 ! important; } /* House Arryn    */
+.variantAncMed .country3 { color: #878787 ! important; } /* House Greyjoy   */
+.variantAncMed .country4 { color: #000ba5 ! important; } /* House Tully   */
+.variantAncMed .country5 { color: #a50000 ! important; } /* House Lannister     */
+.variantAncMed .country6 { color: #a2a500 ! important; } /* House Baratheon   */
+.variantAncMed .country7 { color: #00a503 ! important; } /* House Tyrell   */
+.variantAncMed .country8 { color: #a6841e ! important; } /* House Martell     */
+
+.variantAncMed .occupationBar1 { background-color: #ebebeb; } /* House Stark  */
+.variantAncMed .occupationBar2 { background-color: #007BA5; } /* House Arryn    */
+.variantAncMed .occupationBar3 { background-color: #878787; } /* House Greyjoy   */
+.variantAncMed .occupationBar4 { background-color: #000ba5; } /* House Tully   */
+.variantAncMed .occupationBar5 { background-color: #a50000; } /* House Lannister     */
+.variantAncMed .occupationBar6 { background-color: #a2a500; } /* House Baratheon    */
+.variantAncMed .occupationBar7 { background-color: #00a503; } /* House Tyrell   */
+.variantAncMed .occupationBar8 { background-color: #a6841e; } /* House Martell     */
