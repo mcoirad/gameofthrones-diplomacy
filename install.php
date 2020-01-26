@@ -501,7 +501,7 @@ $bordersRawData=array(
 	array('Hellholt','Yronwood','No','Yes'),
 	array('Hellholt','Sunspear','No','Yes'),
 	
-	array('Salt Shore','son','Yes','Yes'),
+	array('Salt Shore','Sunspear','Yes','Yes'),
 	array('Sunspear','The Tor','Yes','Yes'),
 	array('The Tor','Yronwood','Yes','Yes'),
 	
