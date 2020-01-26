@@ -30,7 +30,7 @@
 
 defined('IN_CODE') or die('This script can not be run by itself.');
 
-class AncMedVariant extends WDVariant {
+class GoTVariant extends WDVariant {
 	public $id=45;
 	public $mapID=45;
 	public $name='GoT';
