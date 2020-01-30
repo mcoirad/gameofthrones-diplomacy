@@ -1,0 +1,20 @@
+[0128/204953.507963:WARNING:dns_config_service_posix.cc(333)] Failed to read DnsConfig.
+[0128/204953.578642:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+[0128/205052.494928:INFO:CONSOLE(12)] "
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    This is a browser feature intended for 
+ "Y888b.   888888  .d88b.  88888b.   888    developers. If someone told you to copy-paste 
+    "Y88b. 888    d88""88b 888 "88b  888    something here to enable a Facebook feature 
+      "888 888    888  888 888  888  Y8P    or "hack" someone's account, it is a 
+Y88b  d88P Y88b.  Y88..88P 888 d88P         scam and will give them access to your 
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    Facebook account.
+                           888              
+                           888              
+                           888              
+
+See https://www.facebook.com/selfxss for more information.
+", source: https://www.facebook.com/rsrc.php/v3iqES4/y-/l/en_US/W2l30wSOHia.js?_nc_x=Ij3Wp8lg5Kz (12)
