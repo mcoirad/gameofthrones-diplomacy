@@ -42,7 +42,8 @@ class GoTVariant extends WDVariant {
 	public $homepage='http://www.github.com/mcoirad';
 
 	public $countries=array('House-Stark', 'House-Arryn', 'House-Greyjoy', 'House-Tully', 'House-Lannister', 'House-Baratheon', 'House-Tyrell', 'House-Martell');
-
+	public $supplyCenterCount = 52;
+	public $supplyCenterTarget = 35;
 	public function __construct() {
 		parent::__construct();
 
