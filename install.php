@@ -52,7 +52,7 @@ $territoryRawData=array(
 	array('Lannisport', 'Coast', 'Yes', 5, 120, 1000, 60, 500),
 	array('Silverhill', 'Land', 'Yes', 5, 235, 1100, 118, 550),
 	array('Kings Landing', 'Coast', 'Yes', 5, 480, 1050, 240, 525),
-	array('Dragonstone', 'Coast', 'Yes', 6, 680, 970, 340, 485),
+	array('Dragonstone', 'Coast', 'Yes', 6, 660, 965, 330, 482),
 	array('Storms End', 'Coast', 'Yes', 6, 630, 1190, 315, 595),
 	array('Tarth', 'Coast', 'Yes', 6, 710, 1160, 355, 580),
 	array('Highgarden', 'Coast', 'Yes', 7, 180, 1280, 90, 640),
