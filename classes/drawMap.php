@@ -20,8 +20,8 @@ class GoT2Variant_drawMap extends drawMap {
 
 	protected $countryColors = array(
 		0 =>  array(226, 198, 158), // Neutral
-		1 =>  array(0, 11, 165), // Tully
-		2 =>  array(165, 0, 0),  // Lannister
+		1 =>  array(50, 58, 165), // Tully
+		2 =>  array(165, 26, 26),  // Lannister
 	);
 
 	protected function resources() {
