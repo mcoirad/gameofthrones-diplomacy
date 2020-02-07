@@ -23,10 +23,10 @@ class GoTVariant_drawMap extends drawMap {
 		1 =>  array(235, 235, 235), // Stark
 		2 =>  array(0, 123, 165), // Arryn
 		3 =>  array(135, 135, 135), // Greyjoy
-		4 =>  array(0, 11, 165), // Tully
-		5 =>  array(165, 0, 0),  // Lannister
+		4 =>  array(50, 58, 165), // Tully
+		5 =>  array(165, 26, 26),  // Lannister
 		6 =>  array(162, 165, 0),  // Baratheon
-		7 =>  array(0, 165, 3),  // Tyrell
+		7 =>  array(21, 165, 23),  // Tyrell
 		8 =>  array(166, 132, 30)  // Martell
 
 	);
