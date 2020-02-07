@@ -82,7 +82,7 @@ $territoryRawData=array(
 	array('Stony Sept', 'Land', 'Yes', 0, 335, 1000, 168, 500),
 	array('Blackwater Rush', 'Land', 'No', 5, 390, 990, 195, 495),
 	array('Kingsroad South', 'Land', 'No', 0, 460, 980, 230, 490),
-	array('Maidenpool', 'Coast', 'No', 0, 575, 925, 288, 462),
+	array('Maidenpool', 'Coast', 'Yes', 0, 575, 925, 288, 462),
 	array('Maidenpool (North Coast)', 'Coast', 'No', 0, 600,  905, 300, 452),
 	array('Maidenpool (South Coast)', 'Coast', 'No', 0, 600,  950, 300, 475),
 	array('Duskendale', 'Coast', 'Yes', 0, 540, 970, 270, 485),
@@ -353,7 +353,9 @@ $bordersRawData=array(
 	array('Golden Sea','Southshield','Yes','No'),
 	array('Golden Sea','The Sunset Sea','Yes','No'),
 	array('Golden Sea','Redwyne Straits','Yes','No'),
-	
+	array('The Sunset Sea','Southshield','Yes','No'),
+	array('Redwyne Straits','Southshield','Yes','No'),
+
 	array('Sarsfield','Golden Tooth','No','Yes'),
 	array('Sarsfield','Hornvale','No','Yes'),
 	array('Sarsfield','Western Gold Road','No','Yes'),
@@ -398,6 +400,7 @@ $bordersRawData=array(
 	array('Maidenpool (South Coast)','Duskendale','Yes','No'),
 	array('Maidenpool','Duskendale','No','Yes'),
 	array('Maidenpool','Kingsroad South','No','Yes'),
+	array('Duskendale','Kingsroad South','No','Yes'),
 	array('Kingsroad South','Eastern Gold Road','No','Yes'),
 	array('Kingsroad South','Kings Landing','No','Yes'),
 	array('Eastern Gold Road','Kings Landing','No','Yes'),
@@ -433,6 +436,7 @@ $bordersRawData=array(
 	array('The Reach','Roseroad East','No','Yes'),
 	array('The Reach','Roseroad West','No','Yes'),
 	array('The Reach','Goldengrove','No','Yes'),
+	array('Roseroad West','Goldengrove','No','Yes'),
 	
 	array('Tumbleton','Roseroad East','No','Yes'),
 	array('The Narrow Sea','Shipbreaker Bay','Yes','No'),
