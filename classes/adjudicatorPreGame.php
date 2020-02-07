@@ -16,18 +16,11 @@
 
 defined('IN_CODE') or die('This script can not be run by itself.');
 
-class GoTVariant_adjudicatorPreGame extends adjudicatorPreGame {
+class GoT2Variant_adjudicatorPreGame extends adjudicatorPreGame {
 
 	protected $countryUnits = array(
-		'House-Stark' => array('Deepwood Motte'   =>'Army' , 'Winterfell'  =>'Army' , 'White Harbor' =>'Army'),
-		'House-Arryn'    => array('The Eyrie'=>'Army' , 'Hearth Home'=>'Army' , 'Gulfport'   =>'Fleet'),
-		'House-Greece'   => array('Great Wyk'    =>'Fleet' , 'Pyke' =>'Fleet' , 'Harlaw'=>'Fleet'),
-		'House-Tully'   => array('Seagard'     =>'Army' , 'Fairmarket'=>'Army' , 'Riverrun' =>'Army', 'Harrenhal' =>'Army'),
-		'House-Lannister'     => array('Lannisport'  =>'Fleet' , 'Sarsfield'   =>'Army' , 'Silverhall'  =>'Army', 'Kings Landing'  =>'Army'),
-		'House-Baratheon'     => array('Dragonstone'  =>'Fleet' , 'Tarth'   =>'Fleet' , 'Storms End'  =>'Army'),
-		'House-Tyrell'     => array('Oldtown'  =>'Fleet' , 'Highgarden'   =>'Army' , 'Horn Hill'  =>'Army'),
-		'House-Martell'     => array('Sunspear'  =>'Fleet' , 'Yronwood'   =>'Army' , 'Princes Pass'  =>'Army')
-
+		'House-Tully'   => array('Seagard'     =>'Fleet' , 'Fairmarket'=>'Army' , 'Riverrun' =>'Army', 'Harrenhal' =>'Army'),
+		'House-Lannister'     => array('Lannisport'  =>'Fleet' , 'Sarsfield'   =>'Army' , 'Silverhall'  =>'Army', 'Kings Landing'  =>'Army')
 	);
 
 }

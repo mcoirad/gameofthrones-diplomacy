@@ -16,39 +16,32 @@
 
 defined('IN_CODE') or die('This script can not be run by itself.');
 
-class GoTVariant_drawMap extends drawMap {
+class GoT2Variant_drawMap extends drawMap {
 
 	protected $countryColors = array(
 		0 =>  array(226, 198, 158), // Neutral
-		1 =>  array(235, 235, 235), // Stark
-		2 =>  array(0, 123, 165), // Arryn
-		3 =>  array(135, 135, 135), // Greyjoy
-		4 =>  array(0, 11, 165), // Tully
-		5 =>  array(165, 0, 0),  // Lannister
-		6 =>  array(162, 165, 0),  // Baratheon
-		7 =>  array(0, 165, 3),  // Tyrell
-		8 =>  array(166, 132, 30)  // Martell
-
+		1 =>  array(0, 11, 165), // Tully
+		2 =>  array(165, 0, 0),  // Lannister
 	);
 
 	protected function resources() {
 		if( $this->smallmap )
 		{
 			return array(
-				'map'     =>l_s('variants/GoT/resources/smallmap.png'),
-				'army'    =>l_s('variants/GoT/resources/smallarmy.png'),
-				'fleet'   =>l_s('variants/GoT/resources/smallfleet.png'),
-				'names'   =>l_s('variants/GoT/resources/smallmapNames.png'),
+				'map'     =>l_s('variants/GoT2/resources/smallmap.png'),
+				'army'    =>l_s('variants/GoT2/resources/smallarmy.png'),
+				'fleet'   =>l_s('variants/GoT2/resources/smallfleet.png'),
+				'names'   =>l_s('variants/GoT2/resources/smallmapNames.png'),
 				'standoff'=>l_s('images/icons/cross.png')
 			);
 		}
 		else
 		{
 			return array(
-				'map'     =>l_s('variants/GoT/resources/map.png'),
-				'army'    =>l_s('variants/GoT/resources/army.png'),
-				'fleet'   =>l_s('variants/GoT/resources/fleet.png'),
-				'names'   =>l_s('variants/GoT/resources/mapNames.png'),
+				'map'     =>l_s('variants/GoT2/resources/map.png'),
+				'army'    =>l_s('variants/GoT2/resources/army.png'),
+				'fleet'   =>l_s('variants/GoT2/resources/fleet.png'),
+				'names'   =>l_s('variants/GoT2/resources/mapNames.png'),
 				'standoff'=>l_s('images/icons/cross.png')
 			);
 		}

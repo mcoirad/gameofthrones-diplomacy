@@ -30,25 +30,25 @@
 
 defined('IN_CODE') or die('This script can not be run by itself.');
 
-class GoTVariant extends WDVariant {
-	public $id=45;
-	public $mapID=45;
-	public $name='GoT';
-	public $fullName='Game of Thrones';
-	public $description='A Game of Thrones inspired variant.';
+class GoT2Variant extends WDVariant {
+	public $id=46;
+	public $mapID=46;
+	public $name='GoT2';
+	public $fullName='Game of Thrones - Tully vs Lannister';
+	public $description='A Game of Thrones inspired variant for two players.';
 	public $author='Dario Mitchell';
 	public $adapter='same';
 	public $version='0.9';
 	public $homepage='http://www.github.com/mcoirad';
 
-	public $countries=array('House-Stark', 'House-Arryn', 'House-Greyjoy', 'House-Tully', 'House-Lannister', 'House-Baratheon', 'House-Tyrell', 'House-Martell');
+	public $countries=array('House-Tully', 'House-Lannister');
 	public $supplyCenterCount = 52;
-	public $supplyCenterTarget = 35;
+	public $supplyCenterTarget = 20;
 	public function __construct() {
 		parent::__construct();
 
-		$this->variantClasses['drawMap'] = 'GoT';
-		$this->variantClasses['adjudicatorPreGame'] = 'GoT';
+		$this->variantClasses['drawMap'] = 'GoT2';
+		$this->variantClasses['adjudicatorPreGame'] = 'GoT2';
 
 	}
 
