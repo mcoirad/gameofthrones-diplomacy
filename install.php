@@ -418,6 +418,7 @@ $bordersRawData=array(
 	array('Dragonstone','The Narrow Sea','Yes','No'),
 	array('Dragonstone','Shipbreaker Bay','Yes','No'),
 	array('Duskendale','Kings Landing','Yes','Yes'),
+	array('Duskendale','Kingsroad South','No','Yes'),
 	array('Kings Landing','Kingswood','Yes','Yes'),
 	array('Kingswood','Haystack Hall','Yes','Yes'),
 	array('Kingswood','Tumbleton','No','Yes'),
