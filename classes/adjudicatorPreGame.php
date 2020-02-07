@@ -23,7 +23,7 @@ class GoTVariant_adjudicatorPreGame extends adjudicatorPreGame {
 		'House-Arryn'    => array('The Eyrie'=>'Army' , 'Hearth Home'=>'Army' , 'Gulfport'   =>'Fleet'),
 		'House-Greece'   => array('Great Wyk'    =>'Fleet' , 'Pyke' =>'Fleet' , 'Harlaw'=>'Fleet'),
 		'House-Tully'   => array('Seagard'     =>'Army' , 'Fairmarket'=>'Army' , 'Riverrun' =>'Army', 'Harrenhal' =>'Army'),
-		'House-Lannister'     => array('Lannisport'  =>'Fleet' , 'Sarsfield'   =>'Army' , 'Silverhall'  =>'Army', 'Kings Landing'  =>'Army'),
+		'House-Lannister'     => array('Lannisport'  =>'Fleet' , 'Sarsfield'   =>'Army' , 'Silverhill'  =>'Army', 'Kings Landing'  =>'Army'),
 		'House-Baratheon'     => array('Dragonstone'  =>'Fleet' , 'Tarth'   =>'Fleet' , 'Storms End'  =>'Army'),
 		'House-Tyrell'     => array('Oldtown'  =>'Fleet' , 'Highgarden'   =>'Army' , 'Horn Hill'  =>'Army'),
 		'House-Martell'     => array('Sunspear'  =>'Fleet' , 'Yronwood'   =>'Army' , 'Princes Pass'  =>'Army')
