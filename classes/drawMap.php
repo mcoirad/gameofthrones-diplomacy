@@ -36,8 +36,8 @@ class GoTVariant_drawMap extends drawMap {
 		{
 			return array(
 				'map'     =>l_s('variants/GoT/resources/smallmap.png'),
-				'army'    =>l_s('contrib/smallarmy.png'),
-				'fleet'   =>l_s('contrib/smallfleet.png'),
+				'army'    =>l_s('variants/GoT/resources/smallarmy.png'),
+				'fleet'   =>l_s('variants/GoT/resources/smallfleet.png'),
 				'names'   =>l_s('variants/GoT/resources/smallmapNames.png'),
 				'standoff'=>l_s('images/icons/cross.png')
 			);
@@ -46,8 +46,8 @@ class GoTVariant_drawMap extends drawMap {
 		{
 			return array(
 				'map'     =>l_s('variants/GoT/resources/map.png'),
-				'army'    =>l_s('contrib/army.png'),
-				'fleet'   =>l_s('contrib/fleet.png'),
+				'army'    =>l_s('variants/GoT/resources/army.png'),
+				'fleet'   =>l_s('variants/GoT/resources/fleet.png'),
 				'names'   =>l_s('variants/GoT/resources/mapNames.png'),
 				'standoff'=>l_s('images/icons/cross.png')
 			);
