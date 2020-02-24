@@ -514,8 +514,6 @@ $bordersRawData=array(
 	
 	array('Salt Shore','Sunspear','Yes','Yes'),
 	array('Sunspear','The Tor','Yes','Yes'),
-	array('The Tor','Yronwood','Yes','Yes'),
-	
 	
 	array('Dornish Marche','Grassy Vale','No','Yes'),
 	array('Dornish Marche','Blackhaven','No','Yes'),
