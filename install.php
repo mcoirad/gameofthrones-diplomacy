@@ -185,6 +185,7 @@ $bordersRawData=array(
 	
 	array('Last Hearth','Karhold','Yes','Yes'),
 	array('Last Hearth','The Dreadfort','No','Yes'),
+	array('Last Hearth','Bay of Seals','Yes','No'),
 	array('Karhold','The Dreadfort','Yes','Yes'),
 	array('Karhold','Bay of Seals','Yes','No'),
 	array('The Dreadfort','Widows Watch','Yes','Yes'),
