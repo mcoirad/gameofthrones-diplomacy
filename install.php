@@ -185,12 +185,14 @@ $bordersRawData=array(
 	
 	array('Last Hearth','Karhold','Yes','Yes'),
 	array('Last Hearth','The Dreadfort','No','Yes'),
+	array('Last Hearth','Bay of Seals','Yes','No'),
 	array('Karhold','The Dreadfort','Yes','Yes'),
 	array('Karhold','Bay of Seals','Yes','No'),
 	array('The Dreadfort','Widows Watch','Yes','Yes'),
 	array('The Dreadfort','White Knife','No','Yes'),
 	array('The Dreadfort','Bay of Seals','Yes','No'),
 	array('White Knife','Widows Watch','No','Yes'),
+	array('White Harbor','Widows Watch','Yes','Yes'),
 	array('White Knife','Winterfell','No','Yes'),
 	array('White Knife','White Harbor','No','Yes'),
 	array('White Knife','Cerwyn','No','Yes'),
@@ -247,6 +249,7 @@ $bordersRawData=array(
 	array('Western Ironmans Bay','The Crag','Yes','No'),
 	array('Western Ironmans Bay','Ashemark','Yes','No'),
 	array('Western Ironmans Bay','Faircastle','Yes','No'),
+	array('Western Ironmans Bay','Great Wyk','Yes','No'),
 	array('Western Ironmans Bay','Golden Sea','Yes','No'),
 	array('Western Ironmans Bay','Harlaw','Yes','No'),
 	array('Eastern Ironmans Bay','The Flint Cliffs','Yes','No'),
@@ -265,6 +268,9 @@ $bordersRawData=array(
 	array('Greywater Watch','Cape of Eagles','No','Yes'),
 	array('Kingsroad North','Kingsroad','No','Yes'),
 	array('Kingsroad North','The Twins','No','Yes'),
+	array('Kingsroad','The Twins','No','Yes'),
+	array('Kingsroad North','Kingsroad','No','Yes'),
+	array('Seagard','The Twins','No','Yes'),
 	array('Kingsroad North','Mountains of the Moon','No','Yes'),
 	array('Kingsroad North','Northern Moon Mountains','Yes','Yes'),
 	array('Kingsroad North','The West Bite','Yes','No'),
@@ -353,7 +359,9 @@ $bordersRawData=array(
 	array('Golden Sea','Southshield','Yes','No'),
 	array('Golden Sea','The Sunset Sea','Yes','No'),
 	array('Golden Sea','Redwyne Straits','Yes','No'),
-	
+	array('The Sunset Sea','Southshield','Yes','No'),
+	array('Redwyne Straits','Southshield','Yes','No'),
+
 	array('Sarsfield','Golden Tooth','No','Yes'),
 	array('Sarsfield','Hornvale','No','Yes'),
 	array('Sarsfield','Western Gold Road','No','Yes'),
@@ -398,6 +406,7 @@ $bordersRawData=array(
 	array('Maidenpool (South Coast)','Duskendale','Yes','No'),
 	array('Maidenpool','Duskendale','No','Yes'),
 	array('Maidenpool','Kingsroad South','No','Yes'),
+	array('Duskendale','Kingsroad South','No','Yes'),
 	array('Kingsroad South','Eastern Gold Road','No','Yes'),
 	array('Kingsroad South','Kings Landing','No','Yes'),
 	array('Eastern Gold Road','Kings Landing','No','Yes'),
@@ -415,6 +424,7 @@ $bordersRawData=array(
 	array('Dragonstone','The Narrow Sea','Yes','No'),
 	array('Dragonstone','Shipbreaker Bay','Yes','No'),
 	array('Duskendale','Kings Landing','Yes','Yes'),
+	array('Duskendale','Kingsroad South','No','Yes'),
 	array('Kings Landing','Kingswood','Yes','Yes'),
 	array('Kingswood','Haystack Hall','Yes','Yes'),
 	array('Kingswood','Tumbleton','No','Yes'),
@@ -433,6 +443,7 @@ $bordersRawData=array(
 	array('The Reach','Roseroad East','No','Yes'),
 	array('The Reach','Roseroad West','No','Yes'),
 	array('The Reach','Goldengrove','No','Yes'),
+	array('Roseroad West','Goldengrove','No','Yes'),
 	
 	array('Tumbleton','Roseroad East','No','Yes'),
 	array('The Narrow Sea','Shipbreaker Bay','Yes','No'),
@@ -503,8 +514,6 @@ $bordersRawData=array(
 	
 	array('Salt Shore','Sunspear','Yes','Yes'),
 	array('Sunspear','The Tor','Yes','Yes'),
-	array('The Tor','Yronwood','Yes','Yes'),
-	
 	
 	array('Dornish Marche','Grassy Vale','No','Yes'),
 	array('Dornish Marche','Blackhaven','No','Yes'),
