@@ -1,7 +1,7 @@
 @CHARSET "ISO-8859-1";
 
 .variantGoT .country0 { color: #CE7800 ! important; } /* Global   */
-.variantGoT .country1 { color: #ebebeb ! important; } /* House Stark */
+.variantGoT .country1 { color: black ! important; background-color: #ebebeb ! important; } /* House Stark */
 .variantGoT .country2 { color: #007BA5 ! important; } /* House Arryn    */
 .variantGoT .country3 { color: #878787 ! important; } /* House Greyjoy   */
 .variantGoT .country4 { color: #000ba5 ! important; } /* House Tully   */

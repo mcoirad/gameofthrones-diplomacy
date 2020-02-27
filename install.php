@@ -8,7 +8,7 @@ $countries=$this->countries;
 $territoryRawData=array(
 	array('Deepwood Motte', 'Coast', 'Yes', 1, 265, 200, 132, 100),
 	array('Winterfell', 'Land', 'Yes', 1, 375, 275, 188, 138),
-	array('The North', 'Coast', 'Yes', 1, 350, 140, 175, 70),
+	array('The North', 'Coast', 'No', 1, 350, 140, 175, 70),
 	array('The Wall', 'Coast', 'Yes', 0, 475, 25, 238, 12),
 	array('The Wall (West Coast)', 'Coast', 'No', 0, 400, 25, 200, 12),
 	array('The Wall (East Coast)', 'Coast', 'No', 0, 550, 25, 275, 12),
