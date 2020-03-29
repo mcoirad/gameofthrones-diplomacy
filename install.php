@@ -535,6 +535,7 @@ $bordersRawData=array(
 	array('Storms End','Crows Nest','No','Yes'),
 	array('Storms End','Crows Nest (North Coast)','Yes','No'),
 	array('Blackhaven','Crows Nest (South Coast)','Yes','No'),
+	array('Blackhaven','Crows Nest','No','Yes'),
 	array('Blackhaven','Yronwood','Yes','Yes'),
 	array('Yronwood','The Tor','Yes','Yes'),
 	array('Rainwood','Crows Nest (South Coast)','Yes','No'),
