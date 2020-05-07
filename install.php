@@ -464,7 +464,7 @@ $bordersRawData=array(
 	array('Red Lake','Ocean Road','No','Yes'),
 	array('Red Lake','Goldengrove','No','Yes'),
 	array('Ocean Road','Goldengrove','No','Yes'),
-	array('Ocean Road','Highgarden','Yes','No'),
+	array('Ocean Road','Highgarden','Yes','Yes'),
 	array('Highgarden','Goldengrove','No','Yes'),
 	array('Highgarden','Roseroad West','No','Yes'),
 	array('Highgarden','Cider Hall','No','Yes'),
